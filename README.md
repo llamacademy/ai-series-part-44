@@ -1,4 +1,4 @@
-﻿# URP Scrolling Texture Shader
+﻿# Intercept Courses for NavMeshAgents
 
 In this tutorial repository and [accompanying video](https://youtu.be/1Jkg8cKLsC0) you will learn how  you can have NavMeshAgents calculate an intercept course to better chase the player. We'll use the historical velocity of the player, project it forward, and calculate a path to that location. Make sure to also check the agent isn't just running in front of the player by adding a Dot Product check!
 
